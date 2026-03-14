@@ -2,9 +2,6 @@
 
 ## A Program Evaluation Brief from Parent AI Professional Development Sessions in Southern California
 
-**Charles Martin, Ed.D.**
-Alexandria's Design | Carlsbad, California
-
 **William Gideon Jr., Ed.D.**
 The Right Path Educational Consulting (TRPEC) | Southern California
 
@@ -224,17 +221,15 @@ This program evaluation surfaced important patterns, but it also revealed gaps i
 
 ---
 
-## About the Authors
+## About the Author
 
-**Dr. Charles Martin** holds an Ed.D. in Educational Technology from the University of Florida. His research focuses on technology-enhanced instruction for multilingual learners. He is an instructional systems designer with experience in K-12, higher education, federal government, and corporate training contexts.
-
-**Dr. William Gideon Jr.** is the founder of The Right Path Educational Consulting (TRPEC), which provides professional development, program evaluation, and consulting services to school districts across Southern California.
+**Dr. William Gideon Jr.** is the founder of The Right Path Educational Consulting (TRPEC), which provides professional development, program evaluation, and consulting services to school districts across Southern California. TRPEC specializes in AI readiness, workforce development, and equity-centered parent engagement.
 
 ---
 
 ## Suggested Citation
 
-Martin, C., & Gideon, W. (2026). What 113 parents told us about AI in their children's schools: A program evaluation brief from parent AI professional development sessions in Southern California. The Right Path Educational Consulting.
+Gideon, W. (2026). What 113 parents told us about AI in their children's schools: A program evaluation brief from parent AI professional development sessions in Southern California. The Right Path Educational Consulting.
 
 ---
 
@@ -242,5 +237,4 @@ Martin, C., & Gideon, W. (2026). What 113 parents told us about AI in their chil
 
 For questions about this brief, the survey instrument, or partnership inquiries:
 
-Dr. Charles Martin -- charlesmartinedd@gmail.com
 Dr. William Gideon Jr. -- williamgideonjr@gmail.com
